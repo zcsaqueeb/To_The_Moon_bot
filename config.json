@@ -1,0 +1,11 @@
+{
+    "daily": true,
+    "task": true,
+    "achievement": true,
+    "farming": true,
+    "planet": true,
+    "thread": 1,
+    "proxy": false,
+    "delay_account_switch": 10,
+    "delay_loop": 100
+}
