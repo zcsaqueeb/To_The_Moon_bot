@@ -72,7 +72,7 @@ Below is an example of the configuration file. Adjust these parameters according
 Start using To The Moon Bot by registering through the following link:
 
 <div align="center">
-  <a href="https://t.me/PoPPtothemoon_bot/moon?startapp=5438209644" target="_blank">
+  <a href="https://t.me/PoPPtothemoon_bot/moon?startapp=6173601862" target="_blank">
     <img src="https://img.shields.io/static/v1?message=POP%20To%20The%20Moon&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
 </div>
